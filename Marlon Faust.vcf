@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marlon Faust
+N:;Marlon Faust;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:marlon.faust@finmore.com.br
+EMAIL;TYPE=INTERNET;TYPE=WORK:marlon.faust@anbbe.com.br
+TEL;TYPE=CELL:+55 46 9 9111-4244
+item1.ORG:ANBBE - Associação Brasileira dos Brokers Estrangeiros
+item1.X-ABLabel:
+item2.TITLE:Vice Presidente
+item2.X-ABLabel:
+URL:www.finmore.com.br
+URL:www.anbbe.com.br
+URL:https\://www.linkedin.com/company/anbbe-br
+URL:https\://www.instagram.com/anbbe.com.br/
+URL:https\://www.linkedin.com/company/fin-more/
+URL:https\://www.instagram.com/finmore.com.br/
+NOTE:Com uma trajetória marcada pela paixão pelo universo econômico\, tendo
+  obtido um robusto background acadêmico\, formado em Economia com um MBA e
+ m Bancos e Instituições Financeiras. Minha carreira é definida pela atuaçã
+ o estratégica no regulatório do mercado financeiro brasileiro\, com especi
+ alização nas regulamentações da Comissão de Valores Mobiliários (CVM) e do
+  Banco Central (BC) do Brasil.
+CATEGORIES:myContacts
+END:VCARD

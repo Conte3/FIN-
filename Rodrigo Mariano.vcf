@@ -1,0 +1,35 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rodrigo Mariano
+N:Mariano;Rodrigo;;;
+item1.EMAIL;TYPE=INTERNET:Rodrigo.mariano@finmore.com.br
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:Rodrigo.mariano@anbbe.com.br
+item2.X-ABLabel:
+item3.EMAIL;TYPE=INTERNET:Rodrigo@mrgc.law
+item3.X-ABLabel:
+TEL;TYPE=CELL:+55 55 99695-8036
+item4.ORG:ANBBE - Associação Brasileira dos Brokers Brasileiros
+item4.X-ABLabel:
+item5.TITLE:Diretor Presidente
+item5.X-ABLabel:
+item6.URL:http\://www.finmore.com.br/
+item6.X-ABLabel:
+item7.URL:http\://www.anbbe.com.br/
+item7.X-ABLabel:
+item8.URL:https\://www.linkedin.com/company/anbbe-br
+item8.X-ABLabel:
+item9.URL:https\://www.instagram.com/anbbe.com.br/
+item9.X-ABLabel:
+item10.URL:https\://www.linkedin.com/company/fin-more/
+item10.X-ABLabel:
+item11.URL:https\://www.instagram.com/finmore.com.br/
+item11.X-ABLabel:
+NOTE:Com uma sólida trajetória de 17 anos como advogado e experiência em Di
+ reito Regulatório\, Penal Econômico\, PLD e Direito Antitruste\, me dedico
+  a atender às necessidades jurídicas de empresas e empreendedores brasilei
+ ros e internacionais.
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGRrPryY8QhHm20KDpMTD
+ POP3gS2v5VZraw9nJNAmwnEjkw4Cgu
+CATEGORIES:myContacts
+END:VCARD
