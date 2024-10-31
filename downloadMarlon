@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download File</title>
+</head>
+<body>
+    <a id="download-link" href="https://raw.githubusercontent.com/Conte3/FIN-/ca23c7e1470f9ef24500ca4976ca3ecc26d35bb1/Marlon%20Faust.vcf" download="Marlon Faust.vcf">Download File</a>
+
+    <script>
+        document.getElementById('download-link').click();
+    </script>
+</body>
+</html>
